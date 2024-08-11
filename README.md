@@ -26,7 +26,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/sorting-visualizer.git
+    git clone https://github.com/mayurbarad/sorting-algo-visualizer.git
     ```
 
 2. Navigate to the project directory:
